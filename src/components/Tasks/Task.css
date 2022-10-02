@@ -1,0 +1,39 @@
+img {
+    width: 100%;
+    height: auto;
+}
+
+.activity-card {
+    background-color: #fff;
+    padding: 12px;
+    width: 280px;
+    position: relative;
+}
+
+.activity-image {
+    width: 280px;
+}
+
+button.btn-activity {
+    background-color: #F57C02;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    width: 90%;
+    position: absolute;
+    bottom: 8px;
+}
+
+.card-info {
+    margin-bottom: 80px;
+}
+
+button:hover.btn-activity {
+    background-color: #f5dd02d4;
+}
+
+@media only screen and (max-width: 768px) {
+    /* .activity-card {
+        width: 200px;
+    } */
+}

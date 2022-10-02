@@ -1,0 +1,63 @@
+.site-header {
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+}
+
+h1 {
+    color: #F57C02;
+    margin-left: 10px;
+}
+
+.main-container {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+
+.activities-container {
+    background-color: #F6F6E6;
+    width: 70%;
+    padding: 50px;
+
+}
+
+.activities {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+    margin: 50px;
+
+}
+
+.activity-calculation-container {
+    padding: 30px;
+    position: fixed;
+    right: 0;
+}
+
+@media only screen and (max-width: 768px) {
+
+    .main-container {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .activities-container {
+        width: 100%;
+        padding: 0px;
+
+    }
+
+    .activities {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+
+    }
+
+    .activity-calculation-container {
+        position: static;
+    }
+
+}

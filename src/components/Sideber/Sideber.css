@@ -1,0 +1,51 @@
+.profile {
+    display: flex;
+    align-items: center;
+}
+
+.profile-image img {
+    width: 70px;
+    margin-right: 10px;
+}
+
+.body-info {
+    background-color: rgba(122, 203, 217, 0.67);
+    padding: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.select-break {
+    background-color: rgba(122, 203, 217, 0.67);
+    padding: 12px;
+}
+
+button {
+    margin-right: 5px;
+    background-color: #220070;
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    padding: 12px;
+}
+
+.excercise-time,
+.break-time {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(122, 203, 217, 0.67);
+    padding: 12px;
+    border-radius: 7px;
+    margin-bottom: 16px;
+}
+
+button.activity-completed {
+    background-color: #220070;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    width: 100%;
+    margin: 10px;
+}
+
+@media only screen and (max-width: 768px) {}

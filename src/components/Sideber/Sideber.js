@@ -1,6 +1,9 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+import './Sideber.css'
 
-const Sideber = () => {
+const Sideber = ({ excercise }) => {
 
     const [breakTime, setBreak] = useState([0]);
 
@@ -30,7 +33,7 @@ const Sideber = () => {
         <div className="right-bar">
             <div className="profile">
                 <div className="profile-image">
-                    <img src='/profile.png' alt='' />
+                    <img src='/profile.jpg' alt='' />
                 </div>
 
                 <div className="profile-info">

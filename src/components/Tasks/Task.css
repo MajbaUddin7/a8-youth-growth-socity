@@ -4,7 +4,7 @@ img {
 }
 
 .activity-card {
-    background-color: #fff;
+    background-color: #FFFFFE;
     padding: 12px;
     width: 280px;
     position: relative;
@@ -15,13 +15,15 @@ img {
 }
 
 button.btn-activity {
-    background-color: #F57C02;
+    background-color: #220070;
     color: #fff;
     border: none;
     border-radius: 3px;
     width: 90%;
     position: absolute;
     bottom: 8px;
+    right: 0;
+    left: 0;
 }
 
 .card-info {

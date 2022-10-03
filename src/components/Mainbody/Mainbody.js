@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import Task from '../Tasks/Task';
-// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-// import { faBaby } from '@fortawesome/free-solid-svg-icons'
+import Calculation from '../Sideber/Sideber'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faPerson } from '@fortawesome/free-solid-svg-icons'
 import './Mainbody.css';
 
 
@@ -29,7 +30,7 @@ const Mainbody = () => {
         <div className='main-container'>
             <div className="activities-container">
                 <div className="site-header">
-                    {/* <FontAwesomeIcon icon={faBaby} size="6x"></FontAwesomeIcon> */}
+                    <FontAwesomeIcon icon={faPerson} size="6x"></FontAwesomeIcon>
                     <h1>Youth Growing Socity</h1>
                 </div>
 
@@ -44,7 +45,7 @@ const Mainbody = () => {
                 </div>
             </div>
             <div className="activity-calculation-container">
-                {/* <Calculation excercise={excercise}></Calculation> */}
+                <Calculation excercise={excercise}></Calculation>
             </div>
         </div>
     );

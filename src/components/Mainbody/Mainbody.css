@@ -5,7 +5,7 @@
 }
 
 h1 {
-    color: #F57C02;
+    color: #220070;
     margin-left: 10px;
 }
 
@@ -17,7 +17,7 @@ h1 {
 
 
 .activities-container {
-    background-color: #F6F6E6;
+    background-color: rgba(122, 203, 217, 0.67);
     width: 70%;
     padding: 50px;
 

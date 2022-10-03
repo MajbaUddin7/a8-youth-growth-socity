@@ -4,6 +4,7 @@ import Calculation from '../Sideber/Sideber'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPerson } from '@fortawesome/free-solid-svg-icons'
 import './Mainbody.css';
+import Questions from '../Questions/Questions';
 
 
 const Mainbody = () => {
@@ -43,6 +44,7 @@ const Mainbody = () => {
                         ></Task>)
                     }
                 </div>
+                <Questions></Questions>
             </div>
             <div className="activity-calculation-container">
                 <Calculation excercise={excercise}></Calculation>

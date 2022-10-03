@@ -1,50 +1,50 @@
 [
     {
-        "img": "https://images.pexels.com/photos/8923027/pexels-photo-8923027.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "name": "Kids Writing on a Whiteboard",
-        "desc": "Kids between the age of 7 and 13 are starting to discover that they have a real curiosity about the world, with an understand that they have some independence as well. In order to fuse together these two notions of curiosity and independence, kids need to learn skills.",
-        "age": "7-13",
+        "img": "https://images.pexels.com/photos/8617893/pexels-photo-8617893.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Students Wearing Face Masks",
+        "desc": "Masks should be used as part of a comprehensive strategy of measures to suppress transmission and save lives; the use of a mask alone is not sufficient to provide an adequate level of protection against COVID-19.If COVID-19 is spreading in your community, stay safe by taking some simple precautions, such as physical distancing, wearing a mask, keeping rooms well ventilated, avoiding crowds, cleaning your hands, and coughing into a bent elbow or tissue. Check local advice where you live and work. Do it all.",
+        "age": "12-25",
         "time": 800,
         "id": 1
     },
     {
         "img": "https://images.pexels.com/photos/10637951/pexels-photo-10637951.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "name": "Scout Boys in Classroom",
-        "desc": "Kids between the age of 7 and 13 are starting to discover that they have a real curiosity about the world, with an understand that they have some independence as well. In order to fuse together these two notions of curiosity and independence, kids need to learn skills.",
-        "age": "7-13",
+        "desc": "For over a 100 years, Scouting has helped young people develop academic skills, self-confidence, ethics, leadership skills, and citizenship skills. Now, school districts across the country are leveraging the benefits of the Scouting program to support the educational needs of their students.",
+        "age": "1-20",
         "time": 800,
         "id": 2
     },
     {
         "img": "https://images.pexels.com/photos/8613368/pexels-photo-8613368.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "name": "Preschoolers Doing Running Exercise With Their Teachers",
-        "desc": "Kids between the age of 7 and 13 are starting to discover that they have a real curiosity about the world, with an understand that they have some independence as well. In order to fuse together these two notions of curiosity and independence, kids need to learn skills.",
-        "age": "7-13",
+        "desc": "A supervised exercise program that gets young children running and playing for an hour before school could make them happier and healthier, while also jibing with the needs and schedules of parents and school officials, according to a new study involving two dozen elementary and middle schools.The results also caution, however, that the benefits may depend on how often children actually participate.",
+        "age": "7-20",
         "time": 800,
         "id": 3
     },
     {
         "img": "https://media.istockphoto.com/photos/outdoor-games-picture-id539281953",
-        "name": "Children playing a game with a colourful Parachute",
-        "desc": "Kids between the age of 7 and 13 are starting to discover that they have a real curiosity about the world, with an understand that they have some independence as well. In order to fuse together these two notions of curiosity and independence, kids need to learn skills.",
-        "age": "7-13",
+        "name": "Playing a game with a colourful Parachute",
+        "desc": "Parachutes are versatile. They can be used for exercising, playing games, and building teamwork. You can teach simple games to toddlers, play active ones with children, and adjust them to be played while sitting in a chair or wheelchair. Try these games and find out why parachutes are so much fun!",
+        "age": "7-18",
         "time": 800,
-        "id": 1
+        "id": 4
     },
     {
         "img": "https://images.pexels.com/photos/8618071/pexels-photo-8618071.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "name": "Children Sitting in the Classroom",
-        "desc": "Kids between the age of 7 and 13 are starting to discover that they have a real curiosity about the world, with an understand that they have some independence as well. In order to fuse together these two notions of curiosity and independence, kids need to learn skills.",
-        "age": "7-13",
+        "name": "Sitting in the Classroom",
+        "desc": "Students have spent significant amounts of time in class sitting in furniture that restricts movement for decades. Conventional classroom seating is stiff, stationary, and repressive when it comes to allowing movement, and sitting still for extended periods can be stressful for students. For these learners, who may have learning disabilities such as attention-deficit/hyperactivity disorder (ADHD), attention deficit disorder (ADD), or even sensory perception disorders, moving around comfortably is essential for concentrating on classroom work.",
+        "age": "10-24",
         "time": 800,
-        "id": 1
+        "id": 5
     },
     {
         "img": "https://images.pexels.com/photos/8813512/pexels-photo-8813512.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "name": "A Group of Kids Playing Football at the Field",
-        "desc": "Kids between the age of 7 and 13 are starting to discover that they have a real curiosity about the world, with an understand that they have some independence as well. In order to fuse together these two notions of curiosity and independence, kids need to learn skills.",
-        "age": "7-13",
+        "name": "Playing Football at the Field",
+        "desc": "Improving herat health and blood pressure.Increasing muscle mass and bone strength in inactive individuals.Reducing body fat.Building strength, stamina and speed. Training your brain, improving concentration and coordination. Promoting teamwork, being social and boosting your confidence",
+        "age": "10-24",
         "time": 800,
-        "id": 1
+        "id": 6
     }
 ]

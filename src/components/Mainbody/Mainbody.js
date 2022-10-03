@@ -34,6 +34,9 @@ const Mainbody = () => {
                     <FontAwesomeIcon icon={faPerson} size="6x"></FontAwesomeIcon>
                     <h1>Youth Growing Socity</h1>
                 </div>
+                <div className="">
+                    <h2>Select today's activities</h2>
+                </div>
 
                 <div className="activities">
                     {

@@ -11,7 +11,7 @@ const Questions = () => {
                 </li>
 
                 <li>
-                    <h2>Question-01: Different between Props and State?</h2>
+                    <h2>Question-02: Different between Props and State?</h2>
                     <p>Answer: Differentiate between Props and State:
                         <li>
                             Props:The Data is passed from one component to another.It is Immutable cannot be modified.Props can be used with state and functional components.Props are read-only.
@@ -22,7 +22,7 @@ const Questions = () => {
                     </p>
                 </li>
                 <li>
-                    <h2>Question-01: What of the uses of UseEffect API without Data Load?</h2>
+                    <h2>Question-03: What of the uses of UseEffect API without Data Load?</h2>
                     <p>Answer: Below is what can be done by the UseEffect API in addition to load data:
                         (1)Creating a Project and a Local API.(2)Sending Data to an API.(3)Fetching Data from an API with useEffect
                     </p>

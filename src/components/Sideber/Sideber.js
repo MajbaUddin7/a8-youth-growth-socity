@@ -35,8 +35,8 @@ const Sideber = ({ excercise }) => {
                 </div>
 
                 <div className="profile-info">
-                    <h3>Bertha Hessel</h3>
-                    <h5>Stockton, California</h5>
+                    <h3>Opal H. Kellam</h3>
+                    <h5>West Fork Street Helena, MT</h5>
                 </div>
             </div>
             <div className="body-info">

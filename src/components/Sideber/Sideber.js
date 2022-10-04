@@ -13,17 +13,16 @@ const Sideber = ({ excercise }) => {
     }
 
     useEffect(() => {
-        if (breakTime.length > 1) localStorage.setItem("todos", JSON.stringify(breakTime));
-    }, [breakTime]);
-
-    useEffect(() => {
-        const data = window.localStorage.getItem('MY_APP_STATE');
-        if (data !== null) handleSetBreak(JSON.parse(data));
+        const items = JSON.parse(localStorage.getItem('Break_Time'));
+        if (items) {
+            setBreak(items);
+        }
     }, []);
 
     const handleSetBreak = (value) => {
         const newBreak = [value];
         setBreak(newBreak);
+        localStorage.setItem('Break_Time', JSON.stringify(value));
     }
 
 

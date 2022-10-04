@@ -9,7 +9,7 @@ import Questions from '../Questions/Questions';
 
 const Mainbody = () => {
 
-    const [activities, setActivities] = useState([]);
+    // const [activities, setActivities] = useState([]);
     const [excercise, setEcercise] = useState([]);
 
 

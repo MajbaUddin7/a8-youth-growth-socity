@@ -24,6 +24,7 @@ button.btn-activity {
     bottom: 8px;
     right: 0;
     left: 0;
+    margin: 0 16px;
 }
 
 .card-info {
